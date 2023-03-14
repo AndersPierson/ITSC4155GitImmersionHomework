@@ -7,4 +7,4 @@ Original file is located at
     https://colab.research.google.com/drive/1N7U_gGxUxi4NApgrzpzoYcR5CreQhn4s
 """
 
-print("helllo world!")
+print("hello world!")
